@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kenan-Mustafa
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning C# and Java
+- 🌱 I’m currently learning C# 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kenan__mustafa on ig
 
