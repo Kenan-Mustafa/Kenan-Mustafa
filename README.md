@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Kenan-Mustafa
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning C# 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m Backend .Net Developer 
 - 📫 How to reach me kenan__mustafa on ig
 
 <!---
